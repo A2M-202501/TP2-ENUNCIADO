@@ -2,7 +2,7 @@
 <img width="32px" src="img/algo2.svg">
 </div>
 
-# TDA HASH
+# TP2
 
 ## Repositorio de (Nombre Apellido) - (Padrón) - (Mail)
 
